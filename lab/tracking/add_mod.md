@@ -8,7 +8,7 @@ git add algo.txt
 
 What will happen?
 - [ ] Git creates a new blob 
-- [ ] Git updates the index file
+- [x] Git updates the index file
 - [ ] Git updates the current working tree
 
 # Explanation
