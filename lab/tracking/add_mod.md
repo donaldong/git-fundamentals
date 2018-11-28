@@ -12,3 +12,4 @@ What will happen?
 - [ ] Git updates the current working tree
 
 # Explanation
+I just selected the answer that sounded the most correct.
